@@ -8,7 +8,7 @@ const Epicteto = () => {
           data-aos="zoom-in"
           className="text-2xl sm:text-4xl font-bold max-w-[650px] mx-auto text-center"
         >
-          h1"Só a educação liberta - Epicteto"
+          "Só a educação liberta - Epicteto"
         </h1>
       </div>
     </>
