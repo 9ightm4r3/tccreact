@@ -1,8 +1,8 @@
 
-import BannerPng from "../../assets/IBM36091.jpg";
+import BannerPng from "../../assets/pngwing.png";
 
 
-const Ibm36091 = () => {
+const Modelos3d = () => {
   return (
     <div className="py-12 sm:py-0 relative">
       <div className="container min-h-[620px] flex items-center">
@@ -14,13 +14,14 @@ const Ibm36091 = () => {
                 data-aos-delay="300"
                 className="text-4xl font-semibold"
               >
-                IBM 360/91{" "}
+                Agora, {" "}
                 <span className="bg-clip-text text-transparent bg-gradient-to-r from-primary to-secondary">
-                (1964) 
+                Visualize como eram as máquinas
                 </span>
               </h1>
               <p data-aos="fade-up" data-aos-delay="500">
-              Um dos principais exemplos da terceira geração é o IBM 360/91, lançado em 1967, um grande sucesso em vendas na época. Essa máquina já trabalhava com dispositivos de entrada e saída modernos, como discos e fitas de armazenamento, além de poder imprimir todos os resultados em papel. O IBM 360/91 foi um dos primeiros a permitir programação da CPU por microcódigo, então as operações usadas por um processador qualquer podiam ser gravadas através de softwares, sem a necessidade de projetar todo o circuito de forma manual. 
+                Usando nosso visualizador de modelos 3D, aponte a câmera do seu dispositivo em direção ao cartão desejado e então,
+                o usuário será capaz de ter uma noção de como as máquinas se pareciam em perspectiva.
               </p>
               <div className="flex gap-6">
               </div>
@@ -39,4 +40,4 @@ const Ibm36091 = () => {
   );
 };
 
-export default Ibm36091;
+export default Modelos3d;

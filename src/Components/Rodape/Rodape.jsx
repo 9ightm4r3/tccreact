@@ -5,11 +5,6 @@ import {
 
 const LinksRodape = [
   { id: 1, title: "Início ", link: "/#" },
-  {
-    id: 2,
-    title: "Modelos 3D",
-    link: "/#3dmodels",
-  },
 ];
 const Rodape = () => {
   return (

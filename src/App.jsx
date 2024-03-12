@@ -15,6 +15,8 @@ import Terceiragen from "./Components/Corpo/Terceiragen";
 import Ibm36091 from "./Components/Corpo/Ibm36091";
 import Quartagen from "./Components/Corpo/Quartagen";
 import Apples from "./Components/Corpo/Apples";
+import Modelos3d from "./Components/Corpo/Modelos3d";
+
 
 import AOS from "aos";
 import "aos/dist/aos.css";
@@ -46,6 +48,7 @@ const App = () => {
       <Ibm36091 />
       <Quartagen />
       <Apples />
+      <Modelos3d />
       <Nossotime />
       <AppStore />
       <Rodape />

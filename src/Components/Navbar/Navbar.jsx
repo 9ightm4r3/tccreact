@@ -7,11 +7,7 @@ const NavLinks = [
     name: "Início",
     link: "#",
   },
-  {
-    id: 2,
-    name: "Modelos 3D",
-    link: "#3dmodels",
-  },
+
 ];
 const Navbar = () => {
   return (
